@@ -13,4 +13,4 @@ source-files:
   # use local file
   - ./config/source.yaml
   # use web file
-  - https://raw.githubusercontent.com/sprindjack/newproxypool/master/config/source.yaml
+  - https://raw.githubusercontent.com/shope1860/test/master/config/source.yaml
