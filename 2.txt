@@ -1,6 +1,6 @@
-#!MANAGED-CONFIG https://pjj.life/app/user/sub?type=clashr&token=a5aa7b2d-b15b-41a5-8502-08e90133d054
+#!MANAGED-CONFIG https://pjj.life/app/user/sub?type=clashr&token=fe717f96-d407-4da7-8ad0-b0300aee99a9
 #---------------------------------------------------#
-## 上次更新于：Thu Mar 25 14:01:15 CST 2021
+## 上次更新于：Fri Mar 26 17:41:14 CST 2021
 #---------------------------------------------------#
 port: 7890
 socks-port: 7891
@@ -11,25 +11,25 @@ log-level: silent
 external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
-  - {"name":"可用流量:3.00GB 有效期:2121-03-01","type":"ssr","server":"us04.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"P加加 - 最新官网:pjj.one","type":"ssr","server":"sk01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"P加加 - TG客服群:https://t.me/pjjone","type":"ssr","server":"sk02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"韩国03","type":"ssr","server":"sk03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"韩国04","type":"ssr","server":"sk04.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"美国01","type":"ssr","server":"us01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"美国02","type":"ssr","server":"us02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"美国03","type":"ssr","server":"us03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"日本01","type":"ssr","server":"jp01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"日本02","type":"ssr","server":"jp02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"日本03","type":"ssr","server":"jp03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"新加坡01","type":"ssr","server":"sg01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"新加坡02","type":"ssr","server":"sg02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"新加坡03","type":"ssr","server":"sg03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"新加坡04","type":"ssr","server":"sg04.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"台湾01","type":"ssr","server":"tw01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"台湾02","type":"ssr","server":"tw02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"台湾03","type":"ssr","server":"tw03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
-  - {"name":"台湾04","type":"ssr","server":"tw04.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42033840:a5aa7b2d-b15b-41a5-8502-08e90133d054","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"可用流量:28.00GB 有效期:2121-03-01","type":"ssr","server":"us04.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"P加加 - 最新官网:pjj.one","type":"ssr","server":"sk01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"P加加 - TG客服群:https://t.me/pjjone","type":"ssr","server":"sk02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"韩国03","type":"ssr","server":"sk03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"韩国04","type":"ssr","server":"sk04.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"美国01","type":"ssr","server":"us01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"美国02","type":"ssr","server":"us02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"美国03","type":"ssr","server":"us03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"日本01","type":"ssr","server":"jp01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"日本02","type":"ssr","server":"jp02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"日本03","type":"ssr","server":"jp03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"新加坡01","type":"ssr","server":"sg01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"新加坡02","type":"ssr","server":"sg02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"新加坡03","type":"ssr","server":"sg03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"新加坡04","type":"ssr","server":"sg04.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"台湾01","type":"ssr","server":"tw01.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"台湾02","type":"ssr","server":"tw02.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"台湾03","type":"ssr","server":"tw03.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
+  - {"name":"台湾04","type":"ssr","server":"tw04.pjj.life","port":12334,"cipher":"aes-128-cfb","password":"pjj.one","protocol":"auth_aes128_sha1","protocol-param":"42031913:fe717f96-d407-4da7-8ad0-b0300aee99a9","obfs":"plain","obfs-param":"","udp":true}
 
 proxy-groups:
   -
@@ -37,7 +37,7 @@ proxy-groups:
     type: select
     proxies:
       - Auto
-      - '可用流量:3.00GB 有效期:2121-03-01'
+      - '可用流量:28.00GB 有效期:2121-03-01'
       - 'P加加 - 最新官网:pjj.one'
       - 'P加加 - TG客服群:https://t.me/pjjone'
       - '韩国03'
@@ -78,7 +78,7 @@ proxy-groups:
     type: select
     proxies:
       - Auto
-      - '可用流量:3.00GB 有效期:2121-03-01'
+      - '可用流量:28.00GB 有效期:2121-03-01'
       - 'P加加 - 最新官网:pjj.one'
       - 'P加加 - TG客服群:https://t.me/pjjone'
       - '韩国03'
@@ -102,7 +102,7 @@ proxy-groups:
     type: select
     proxies:
       - 🚀直接连接
-      - '可用流量:3.00GB 有效期:2121-03-01'
+      - '可用流量:28.00GB 有效期:2121-03-01'
       - 'P加加 - 最新官网:pjj.one'
       - 'P加加 - TG客服群:https://t.me/pjjone'
       - '韩国03'
@@ -141,7 +141,7 @@ proxy-groups:
     name: Auto
     type: url-test
     proxies:
-      - '可用流量:3.00GB 有效期:2121-03-01'
+      - '可用流量:28.00GB 有效期:2121-03-01'
       - 'P加加 - 最新官网:pjj.one'
       - 'P加加 - TG客服群:https://t.me/pjjone'
       - '韩国03'
